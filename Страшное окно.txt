@@ -1,0 +1,6 @@
+ Git Commit 
+
+Выбраться 
+
+ESC
+:wq
